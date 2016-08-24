@@ -8,7 +8,7 @@ public class Calc {
 	}
 
 	public int multi(int x, int y) {
-		return x*y;
+		return x*y; // multiply calculation.
 	}
 }
 
