@@ -8,7 +8,11 @@ public class Calc {
 	}
 
 	public int multi(int x, int y) {
-		return x*y;
+<<<<<<< HEAD
+		return x*y; // multiply
+=======
+		return x*y; // multiply calculation.
+>>>>>>> readme2
 	}
 }
 
